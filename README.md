@@ -1,1 +1,4 @@
-# data_structures_C
+-[ ] Stack using arrays.
+-[ ] Stack using linked lists.
+-[ ] Queue using arrays.
+-[ ] Binary tree using linked lists.
