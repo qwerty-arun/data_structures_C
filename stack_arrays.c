@@ -11,7 +11,7 @@ int main()
         printf("Select :\n");
         printf("\t1.POP operation\n");
         printf("\t2.PUSH operation:\n");
-        printf("\t3.Stack TOP\n");
+        printf("\t3.Peek\n");
         printf("\t4.Stack Status\n");
         printf("\t5.EXIT THE PROGRAM\n");
         scanf("%d", &option);
