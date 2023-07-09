@@ -50,7 +50,7 @@ void display()
 	temp=top;
 	if(top==NULL)
 	{
-		printf("STACK UNDERFLOW!");
+		printf("STACK IS EMPTY!");
 		return ;
 	}
 	printf("\nStack elements are: \n");
