@@ -32,7 +32,7 @@ void pop()
     	temp=top;
 	if(top==NULL)
 	{
-		printf("STACK UNDERFLOW! CAN'T PERFORM POP OPERATION");
+		printf("STACK IS EMPTY! CAN'T PERFORM POP OPERATION");
 		return ;
 	}
 	int val;//some variable to store topmost element
