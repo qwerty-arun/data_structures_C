@@ -1,5 +1,5 @@
 - [x] Stack using arrays.
-- [ ] Stack using linked lists.
+- [x] Stack using linked lists.
 - [ ] Queue using arrays.
 - [ ] Queue using linked lists.
 - [ ] Binary tree using linked lists.
